@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Práctica 02</string>
+
+    <string-array name="items">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+    </string-array>
+</resources>
